@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(yellow ,darkgoldenrod);
+}
+#pups{
+    background-color:darksalmon;
+    padding-top:50px;
+    font-size:20px;
+    color:black; 
+}
+.Menu{
+    list-style: none;
+    top: 10px;
+    right: 16px;
+    position:fixed;
+    
+}
+.Items{
+    float: left;
+    padding: 5px;
+    margin:6px;
+    font-size: 20px;
+}
+.Items:hover {
+    background-color:burlywood;
+    font-family:monospace;
+}
